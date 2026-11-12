@@ -12,8 +12,8 @@ Tools: Git, GitHub, VS Code
 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" width="42%" />
+<img src=/>
+<img src=/>
 </p>
 
 Connect With Me
