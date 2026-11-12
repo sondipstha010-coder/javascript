@@ -17,7 +17,8 @@ GitHub Stats
 </p>
 
 Connect With Me
-GitHub: sondipstha-coder
+GitHub: sondipstha010-coder
+<br>
 Email: dihson email
 
 <p align="center">
