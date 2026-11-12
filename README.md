@@ -12,8 +12,8 @@ Tools: Git, GitHub, VS Code
 GitHub Stats
 
 <p align="center">
-<img src=/>
-<img src=/>
+<img src="/" alt="GitHub profile stats" />
+<img src="/" alt="GitHub activity graph" />
 </p>
 
 Connect With Me
