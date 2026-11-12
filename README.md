@@ -18,8 +18,7 @@ GitHub Stats
 
 Connect With Me
 GitHub: YOUR_USERNAME
-LinkedIn: Your LinkedIn
-Email: YOUR_EMAIL
+Email: dihson email
 
 <p align="center">
 <i>Building, learning, and improving every day.</i>
